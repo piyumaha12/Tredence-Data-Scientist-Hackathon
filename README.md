@@ -1,5 +1,3 @@
-# Tredence-Data-Scientist-Hackathon
-
 <br>
 <br><center><img src="https://mma.prnewswire.com/media/1672787/Tredence_Logo.jpg?p=twitter" width=40%></center>
 <br>
@@ -7,6 +5,14 @@
 <h2 style="text-align: center; font-family: Verdana; font-size: 36px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Tredence Data Scientist Hiring Challenge</h2>
 <h5 style="text-align: center; font-family: Verdana; font-size: 16px; font-style: normal; font-weight: bold; text-decoration: None; text-transform: none; letter-spacing: 1px; color: black; background-color: #ffffff;">CREATED BY: PIYUSH MAHAJAN </h5>
 <br>
+
+<span style="text-align: center; font-family: Verdana; font-size: 20px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Problem Statement</span>
+
+You are working as a data scientist in a CPG firm.  The company holds warehouses in various cities across the country. Different items are sent to these warehouses on a weekly basis and from where they are distributed to various small stores on a daily basis. 
+
+To increase the efficiency of this process, the management has decided to build software that can forecast weekly and daily demand in advance.
+
+You are given a relevant dataset about the demand for products in the warehouses. You are required to build a machine learning model that can forecast weekly as well as daily demand. 
 
 
 
