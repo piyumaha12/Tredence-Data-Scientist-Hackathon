@@ -6,17 +6,26 @@
 <h5 style="text-align: center; font-family: Verdana; font-size: 16px; font-style: normal; font-weight: bold; text-decoration: None; text-transform: none; letter-spacing: 1px; color: black; background-color: #ffffff;">CREATED BY: PIYUSH MAHAJAN </h5>
 <br>
 
-<span style="text-align: center; font-family: Verdana; font-size: 20px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Problem Statement</span>
+## <span style="text-align: center; font-family: Verdana; font-size: 20px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Problem Statement</span>
 
 You are working as a data scientist in a CPG firm.  The company holds warehouses in various cities across the country. Different items are sent to these warehouses on a weekly basis and from where they are distributed to various small stores on a daily basis. 
 
+
 To increase the efficiency of this process, the management has decided to build software that can forecast weekly and daily demand in advance.
+
 
 You are given a relevant dataset about the demand for products in the warehouses. You are required to build a machine learning model that can forecast weekly as well as daily demand. 
 
 
+## <span style="text-align: center; font-family: Verdana; font-size: 20px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Dataset Description</span>
 
+The dataset folder contains the following files:
 
+<ul>
+	<li>train.csv: &nbsp;&nbsp;16644 x 12</li>
+	<li>test.csv: &nbsp;4900 x 10</li>
+	<li>submission_weekly.csv: &nbsp;700 x 2</li>
+</ul>
 
 <table style="width:770px" border="1">
 	<tbody>
