@@ -1,5 +1,18 @@
 # Tredence-Data-Scientist-Hackathon
 
+<br>
+
+<br><center><img src="https://mma.prnewswire.com/media/1672787/Tredence_Logo.jpg?p=twitter" width=40%></center>
+
+<br>
+
+<h2 style="text-align: center; font-family: Verdana; font-size: 36px; font-style: normal; font-weight: bold; text-decoration: underline; text-transform: none; letter-spacing: 2px; color: teal; background-color: #ffffff;">Tredence Data Scientist Hiring Challenge</h2>
+<h5 style="text-align: center; font-family: Verdana; font-size: 16px; font-style: normal; font-weight: bold; text-decoration: None; text-transform: none; letter-spacing: 1px; color: black; background-color: #ffffff;">CREATED BY: PIYUSH MAHAJAN </h5>
+
+<br>
+
+
+
 <table style="width:770px" border="1">
 	<tbody>
 		<tr>
